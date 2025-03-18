@@ -43,8 +43,8 @@ In the `client` folder, there is a `.env.local` file where you can set the follo
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/kelvinleandro/react-chat-websocket.git
-    cd react-chat-websocket
+    https://github.com/kanthan2000/React-Chat-App.git
+    cd React-Chat-App
     ```
 
 2. Install dependencies for the frontend
